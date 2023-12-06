@@ -7,7 +7,7 @@ package prob1;
 public class BasketballPlayer {
 
 	/**
-	 * The name of the basketball player.
+	 * The name of the basketball playerZZZ.
 	 */
 	private String name;
 	/**
